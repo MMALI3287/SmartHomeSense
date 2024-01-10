@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "253915736133",
+    "project_id": "smarthomesense-arduino",
+    "storage_bucket": "smarthomesense-arduino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253915736133:android:41041209e696de4fc01b2c",
+        "android_client_info": {
+          "package_name": "com.example.smarthomesense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253915736133-76ski6fq1abuh3gdoee11n4vbphte34u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarthomesense",
+            "certificate_hash": "346d0a72042df2370f7982b1565c5a53caca8be5"
+          }
+        },
+        {
+          "client_id": "253915736133-rv5gmqiudtjk2ejnioac87kskgtaj4hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZCSBUixpYadmf0RDcZc_KmBFDUJCt6TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253915736133-rv5gmqiudtjk2ejnioac87kskgtaj4hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
